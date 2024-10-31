@@ -1,0 +1,41 @@
+# Copyright (C) 2024 Kwame Twum
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Payments for Hubtel 1.0.0\n"
+"Report-Msgid-Bugs-To: https://woocommerce.com/my-account/create-a-ticket/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-18T15:16:31+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"language-team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Domain: woo-hubtel\n"
+
+#. Plugin Name of the plugin
+#: woo-hubtel.php
+msgid "Payments for Hubtel"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: woo-hubtel.php
+msgid "https://github.com/kmtwum/hubtel-payments"
+msgstr ""
+
+#. Description of the plugin
+#: woo-hubtel.php
+msgid "Accept payments on your WooCommerce powered website directly to your Hubtel account."
+msgstr ""
+
+#. Author of the plugin
+#: woo-hubtel.php
+msgid "Kwame Twum"
+msgstr ""
+
+#. Author URI of the plugin
+#: woo-hubtel.php
+msgid "https://github.com/kmtwum"
+msgstr ""
